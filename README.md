@@ -15,3 +15,6 @@ A second way uses homebrew (https://brew.sh) to install openblas:
 
 There should be no floating-point exception, in which case the code prints the real part of the first eigenvalue found. 
 If there is a floating-point exception, the code will terminate before printing any results.
+
+If you have any questions about this repo, please contact Geoffrey Lovelace 
+(glovelace at fullerton dot edu).
